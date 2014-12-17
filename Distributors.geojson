@@ -23,7 +23,8 @@
         "Organization": "Shanghai Yikun Electrical Engineering",
         "Role": "Distributor",
         "Website": "???",
-        "Product": "Kobuki"
+        "Product": "Kobuki",
+        "Address": "Block C3, Building 3, No.518, XinZhuan Road, Shanghai, China"
       },
       "geometry": {
         "type": "Point",
@@ -118,13 +119,14 @@
         "Organization": "Arabose",
         "Role": "Distributor",
         "Website": "http://www.arobose.com",
-        "Product": "Kobuki & Turtlebot 2"
+        "Product": "Kobuki & Turtlebot 2",
+        "Address": "4 lot les Fabrigoules II, Chemin de la Sarrière, 13590, Meyreuil, France"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.346202,
-          48.86315
+          5.488164,
+          43.474765
         ]
       }
     },
