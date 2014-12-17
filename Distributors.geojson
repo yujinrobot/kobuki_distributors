@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.079784,
+          37.400465
+        ]
+      },
+      "properties": {
+        "Organization": "Open Source Robotics Foundation",
+        "Role": "Licensor",
+        "Website": "http://osrfoundation.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Yujin Robot",
+        "Role": "Distributor",
+        "Website": "http://kobuki.yujinrobot.com/store/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -233.11803817749026,
+          37.475982006769264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Clearpath Robotics",
+        "Website": "http://www.clearpathrobotics.com/turtlebot_2",
+        "Role": "Distributor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.44920086860657,
+          43.41088540020938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "Robotnik",
+        "Role": "Distributor",
+        "Website": "http://robotnik.es/en"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37779986858367914,
+          39.49389922910088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Organization": "GaiTech",
+        "Role": "Distributor",
+        "Website": "http://www.gaitech.hk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -245.85353136062622,
+          22.288103695402054
+        ]
+      }
+    }
+  ]
+}
