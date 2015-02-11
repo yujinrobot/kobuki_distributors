@@ -183,8 +183,8 @@
       "properties": {
         "Organization": "Robotnik",
         "Role": "Distributor",
-        "Website": "http://robotnik.es/en",
-        "Product": "Turtlebot 2"
+        "Website": "http://www.robotnik.eu/mobile-robots/turtlebot-ros/",
+        "Product": "TurtleBot 2"
       },
       "geometry": {
         "type": "Point",
