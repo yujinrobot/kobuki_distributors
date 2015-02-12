@@ -3,7 +3,22 @@ Kobuki Distributors
 
 A place to collect location information about kobuki/turtlebot distributors. 
 
+Required Information
+--------------------
+
+If it's a new distributor,
+
+* Name
+* Web URL
+* Latitude/Longitude (use google maps)
+
+Other Updates
+-------------
+
 If it's a turtlebot distributor, be sure to mark them on the [turtlebot map](https://github.com/turtlebot/map) as well.
+
+How to Update
+-------------
 
 geojson.io is a good place for editing, but interaction with github is still awkward. You can do like below, but I find it far easier just to make pull requests from direct edits.
 
