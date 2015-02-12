@@ -20,9 +20,11 @@ If it's a turtlebot distributor, be sure to mark them on the [turtlebot map](htt
 How to Update
 -------------
 
-geojson.io is a good place for editing, but interaction with github is still awkward. You can do like below, but I find it far easier just to make pull requests from [direct edits](https://github.com/yujinrobot/kobuki_distributors/edit/master/Distributors.geojson).
+I find it easiest just to make pull requests from [direct edits](https://github.com/yujinrobot/kobuki_distributors/edit/master/Distributors.geojson).
 
-For the pretty, but awkward geojson editing -> [use this link](http://geojson.io/#id=github:yujinrobot/kobuki_distributors/blob/master/Distributors.geojson)
+For pretty editing -> [use this link](http://geojson.io/#id=github:yujinrobot/kobuki_distributors/blob/master/Distributors.geojson). The github interaction seems rather awkward though. 
+
+
 
 Embedding the Map in a Web Page
 -------------------------------
