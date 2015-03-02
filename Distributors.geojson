@@ -213,6 +213,23 @@
     {
       "type": "Feature",
       "properties": {
+        "Organization": "INROBOTEK Humanioid and Mobile Robot Technoloties, Inc.",
+        "Role": "Distributor",
+        "Website": "www.inrobotek.com.tr",
+        "Product": "Kobuki & Turtlebot 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -245.85353136062622,
+          22.288103695402054
+        ]
+      }
+    }
+    
+    {
+      "type": "Feature",
+      "properties": {
         "Organization": "GaiTech",
         "Role": "Distributor",
         "Website": "http://www.gaitech.hk/",
